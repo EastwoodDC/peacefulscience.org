@@ -21,7 +21,7 @@ Epictetus even considered evil and suffering as a possible counterargument, and 
 
 [^1]: Epictetus, [Discourses, chapter 6](http://classics.mit.edu/Epictetus/discourses.1.one.html)
 
-Both the design argument and the problem of evil remain with us today. The Ancient Greeks also knew of the combination of chance and necessity as a potential counterargument, but this remained unconvincing. The advent of Darwinian evolutionary biology was hailed by some as providing, finally, a scientifically sound way alternative way of explaining the apparent purposefulness of biological order. For example, philosopher of biology Michael Ruse, while admitting the overall logical compatibility of evolution with religious belief, nevertheless concludes that “after Darwin, the creation no longer sings” of its Creator, but all is laid on faith.[^2]
+Both the design argument and the problem of evil remain with us today. The Ancient Greeks also knew of the combination of chance and necessity as a potential counterargument, but this remained unconvincing. The advent of Darwinian evolutionary biology was hailed by some as providing, finally, a scientifically sound alternative way of explaining the apparent purposefulness of biological order. For example, philosopher of biology Michael Ruse, while admitting the overall logical compatibility of evolution with religious belief, nevertheless concludes that “after Darwin, the creation no longer sings” of its Creator, but all is laid on faith.[^2]
 
 [^2]: Ruse, Michael. [_Darwinism as Religion. What Literature Tells us about Evolution_](https://www.amazon.com/Darwinism-Religion-Literature-Tells-Evolution/dp/0190241020/), p 282.
 
